@@ -1,0 +1,5 @@
+const caixaPricincipal = document.querySelector(".caixa-pricipal")
+const caixaPricincipal = document.querySelector(".caixa-pricipal")
+const caixaPricincipal = document.querySelector(".caixa-alternativa")
+const caixaPricincipal = document.querySelector(".caixa-resultado")
+const caixaPricincipal = document.querySelector(".caixa-reultado")
